@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denis200
-- 👀 I’m interested in Python,C++,C#
-- 🌱 I’m currently learning Python,C++,C# :)
+- 👀 I’m interested in Python,React Native,C++,
+- 🌱 I’m currently learning Python :)
 - 📫 How to reach me: tg - soundze
 
 <!---
