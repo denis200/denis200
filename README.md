@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denis200
-- 👀 I’m interested in Python,React Native,C++,
-- 🌱 I’m currently learning Python :)
+- 👀 I’m interested in Python,Django,React,React Native,
+- 🌱 I’m currently learning Django,Drf,React :)
 - 📫 How to reach me: tg - soundze
 
 <!---
