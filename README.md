@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @denis200
-- 👀 I’m interested in Python,Django,React,React Native,
-- 🌱 I’m currently learning Django,Drf,React :)
-- 📫 How to reach me: tg - soundze
+- 👋 Hi, I’m Denis Komarkov. Django Backend Developer.
+- 🌱 My stack is Python, Django, Django Rest Framework, PostgreSQL, Celery, Redis, Docker.
+- 📫 How to reach me: 
 
 <!---
 denis200/denis200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
